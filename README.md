@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **vineeth123-png/vineeth123-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,8 +27,15 @@ Here are some ideas to get you started:
 
 ### ✨ GitHub Stats
 
-<a href="https://github.com/appleboy">
+<a href="https://github.com/vineeth123-png">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vineeth123-png&show_icons=true&theme=merko&count_private=true" alt="vineeth123-png's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth123-png&theme=merko&layout=compact" alt="JayB's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth123-png&theme=merko&layout=compact" alt="vineeth123-png's github top languages" />
 </a>
 <br/>
+
+### 🤖 Here are some of my projects
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=vineeth123-png&repo=Yelpcamp&show_owner=1&theme=merko" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=vineeth123-png&repo=deck-of-cards&show_owner=1&theme=merko" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=vineeth123-png&repo=todo-list-react&show_owner=1&theme=merko" />
+
+
